@@ -51,7 +51,7 @@ Welcome to my portfolio, where I showcase my projects.
 <a href="https://instagram.com/_codms_s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@_codms_s" height="30" width="40" /></a>
 </p>
 
-- 📫 sunny031113@gmail.com
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sunny031113@gmail.com)
 
 ---
 
